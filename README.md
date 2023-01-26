@@ -68,3 +68,19 @@ SSF SHOP을 모티브로한 의류 소개 사이트
      <tr/>
   </tbody>
 </table>
+<br />
+
+##  💻 작업내용
+
+- 웨서비시를 구축하기 위한 ERD 컨셉 구성 및 작성<br/>
+- DB data 작성 (Mysql 사용)
+- 프론트에서 제품에 대한 내용 전달하는  API 구현 
+- 상품에 대한 수량 변경(추가 & 삭제)에 대한 API 구현
+
+<br />
+
+##  ⚒️ 추가 Refactoring List
+
+- Typescript 기반으로 Server 리팩토링
+- 기존 Node.js code를 tyescript로 리팩토링
+- Front로 데이터 전송시 redis를 연동하여 전달
